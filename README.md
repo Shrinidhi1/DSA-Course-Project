@@ -8,19 +8,13 @@ This project highlights the main use of data structures in real world scenario.
 An user shops different products from amazon. Firstly, he chooses the category and under that he chooses the products. The user selects the products from the menu and  applies the filter and sorting order to display the products. Offers and discounts are also applied to the order. The order is finalized and added to the cart. The user’s address and other details are read and the order is placed.
 
 ## Tools and Techniques
-### 1. Data Structures and Algorithms
+### Data Structures and Algorithms
 Data structures like Array of Structures, linked list, etc. and algorithms like sub-string search, insertion sort, etc. are used.
 Array of Structures is used because it is efficient for storing a set of data with certain order.
 Singly Linked list is used for cart because it helps connect previous order to the current order for discounts, offers and for calculating total amount for the order.
 Sub-string search algorithm is used for searching product information using the product name.
 Insertion sort order is used for sorting products according to arrival and rating. It is the most suitable sorting algorithm for this scenario because of its efficiency and simplicity.
 Efficiency of insertion sort is of the order n^2.
-### 2. Project Statistics
-|Sl. No.| Measure | Value|
-|1.| Total Functions in Project|25|
-|2.|Total number of lines of code (Including comments, newlines etc.)|4107|
-|3.|Number of Errors|0|
-|4.|Number of Warnings|0|
 
 ## References
 1. Thomas H. Cormen, Clifford Stein, Ronald L. Rivest, and Charles E. Leiserson. 2001. Introduction to Algorithms (2nd ed.). McGraw-Hill Higher Education.
